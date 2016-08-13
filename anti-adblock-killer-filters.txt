@@ -46,6 +46,7 @@
 @@||adscendmedia.com/gwjs.php?aff=$script,third-party
 !@@||adscendmedia.com/gwframe.php?$domain=bee4.biz|filesdld.com
 ! cpagrip.com
+!http://timesofindia.indiatimes.com/
 @@||cpagrip.com/script_include.php?id=$script
 ! RTK AntiAdblock
 ! http://ryanteck.github.io/RTK-Anti-Adblock/
